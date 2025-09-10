@@ -2,7 +2,7 @@
 
 Aqui esta algumas coisas sobre mim:
 
-![UUUUUUUUUUUUUUm](https://th.bing.com/th/id/OIP.-56RAWQypLB-6xrga1ZNhQHaHU?w=199&h=197&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3)
+![UUUUUUUUUUUUUUm](https://tse2.mm.bing.net/th/id/OIP.0tOB2DFtcmDZJqX7evYz4QHaHP?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 
 
