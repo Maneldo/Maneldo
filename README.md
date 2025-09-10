@@ -3,14 +3,9 @@
 Aqui esta algumas coisas sobre mim:
 
 
-![image](https://github.com/Maneldo/Maneldo/assets/161066406/858cdcbf-fe6e-43b2-bd86-faa19b5c0d47)
+![image]([https://github.com/Maneldo/Maneldo/assets/161066406/858cdcbf-fe6e-43b2-bd86-faa19b5c0d47](https://i.imgflip.com/4vitgr.jpg))
 
-
-- 🔭 Estou tentando ser desenvolvedor de jogos
-- 🌱 Estou no ensino medio e aprendendo desenvolvimento de sistemas
-- 🤔 Estou precisando de ajuda em programar
-- 📫 Para chegar até mim, me chame nas redes sociais
-- ⚡ Fun fact: Estou tentando aprender a desenhar
+aaaaaaaaaaaaaaaaaaaaaaa
 
 ### GitHub Status
 
