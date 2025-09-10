@@ -3,7 +3,9 @@
 Aqui esta algumas coisas sobre mim:
 
 
-[![image]([https://github.com/Maneldo/Maneldo/assets/161066406/858cdcbf-fe6e-43b2-bd86-faa19b5c0d47](https://i.imgflip.com/4vitgr.jpg))](https://raw.githubusercontent.com/<usuario>/<repositorio>/<branch>/<[caminho-da-imagem](https://i.imgflip.com/4vitgr.jpg)>)
+![Descrição da imagem]([https://example.com/imagem.jpg](https://th.bing.com/th/id/OIP.-56RAWQypLB-6xrga1ZNhQHaHU?w=199&h=197&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3))
+
+
 
 aaaaaaaaaaaaaaaaaaaaaaa
 
