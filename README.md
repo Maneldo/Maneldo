@@ -1,4 +1,4 @@
-### Mal Dia! 😠
+### dia
 
 Aqui esta algumas coisas sobre mim:
 
