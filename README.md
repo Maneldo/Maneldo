@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, Bem vindo a meu perfil.
 
-<!--
-**Maneldo/Maneldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre Mim
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) e entusiasta de tecnologia, focado em evolução constante e criação de softwares.
 
-Here are some ideas to get you started:
+## 🛠️ Linguagens
+- Python
+- C#
+- HTML5
+- CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos
+- Evoluir em Python e C#
+- Dominar o desenvolvimento back-end
+- Conquistar as primeiras experiências na área de tecnologia
