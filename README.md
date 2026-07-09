@@ -3,9 +3,10 @@
 ## 💻 Sobre Mim
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) e entusiasta de tecnologia, focado em evolução constante e criação de softwares.
 
-## 🛠️ Linguagens
+## 🛠️ Tecnologias
 - Python
 - C#
+- XAML
 - HTML5
 - CSS3
 
