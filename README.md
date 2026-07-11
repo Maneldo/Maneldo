@@ -6,7 +6,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) e entusiasta de tecnol
 ## 🛠️ Tecnologias
 - Python
 - C#
-- XAML
 - HTML5
 - CSS3
 
